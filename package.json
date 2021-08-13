@@ -9,7 +9,7 @@
     "serve": "yarn build && yarn start"
   },
   "dependencies": {
-    "next": "^9.0.4",
+    "next": "^11.1.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   },
